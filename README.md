@@ -1,2 +1,1 @@
-# Spaceman
-The man from space
+https://neomort.github.io/Spaceman/
